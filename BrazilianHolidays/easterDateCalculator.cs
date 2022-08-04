@@ -41,7 +41,7 @@ namespace BrazilianHolidays
             if((daysUntilFullMoon == 29 && daysFromFullMoonToNextSunday == 6)
                 || (daysUntilFullMoon == 28 && daysFromFullMoonToNextSunday == 6 && yearPositionMetonicCycle > 10))
             {
-                daysFromFullMoonToNextSunday -= 1;
+                daysFromFullMoonToNextSunday = - 1;
             }
 
             var easterDay = 0.0;
