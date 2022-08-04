@@ -59,7 +59,9 @@ namespace BrazilianHolidays
                 easterDay = 22 + daysUntilFullMoon + daysFromFullMoonToNextSunday;
                 easterMonth = "/03";
             }
-            stringEasterDate = easterDay < 10 ? "0" + Convert.ToString(easterDay) + easterMonth + "/" + year.ToString(): Convert.ToString(easterDay) + easterMonth + "/" + year.ToString();
+            stringEasterDate = easterDay < 10 
+                ? "0" + Convert.ToString(easterDay) + easterMonth + "/" + year.ToString()
+                : Convert.ToString(easterDay) + easterMonth + "/" + year.ToString();
 
             easterFullDate = DateTime.ParseExact(stringEasterDate, "dd/MM/yyyy", null);
 

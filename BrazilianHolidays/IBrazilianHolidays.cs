@@ -8,6 +8,6 @@ namespace BrazilianHolidays
 {
     internal interface IBrazilianHolidays
     {
-        Dictionary<string, string> GetHolidays(string date);
+        IReadOnlyDictionary<string, string> GetHolidays(string date);
     }
 }

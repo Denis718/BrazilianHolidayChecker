@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\itlab.estagio2022\\BrazilianHolidays\\New folder\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
+      "projectUniqueName": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
       "projectName": "BrazilianHolidays",
-      "projectPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\New folder\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
+      "projectPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\New folder\\BrazilianHolidayChecker\\BrazilianHolidays\\obj\\",
+      "outputPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,9 +11,8 @@ namespace BrazilianHolidays
         private string carnival = "";
         private string goodFriday = "";
         private string corpusChristi = "";
-
         
-        public Dictionary<string, string> GetHolidays(string date)
+        public IReadOnlyDictionary<string, string> GetHolidays(string date)
         {
             var year = Convert.ToInt32(date.Split("/")[2]);
 

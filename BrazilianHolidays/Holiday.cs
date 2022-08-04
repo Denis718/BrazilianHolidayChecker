@@ -10,7 +10,6 @@ namespace BrazilianHolidays
     {
         private string date;
 
-
         public Holiday(string date)
         {
             this.date = date;
