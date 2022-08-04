@@ -1,0 +1,15 @@
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\bin\Debug\net6.0\BrazilianHolidays.exe
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\bin\Debug\net6.0\BrazilianHolidays.deps.json
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\bin\Debug\net6.0\BrazilianHolidays.runtimeconfig.json
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\bin\Debug\net6.0\BrazilianHolidays.dll
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\bin\Debug\net6.0\BrazilianHolidays.pdb
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.csproj.AssemblyReference.cache
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.AssemblyInfoInputs.cache
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.AssemblyInfo.cs
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.csproj.CoreCompileInputs.cache
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.dll
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\refint\BrazilianHolidays.dll
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.pdb
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\BrazilianHolidays.genruntimeconfig.cache
+C:\itlab.estagio2022\BrazilianHolidays\BrazilianHolidays\BrazilianHolidays\obj\Debug\net6.0\ref\BrazilianHolidays.dll
