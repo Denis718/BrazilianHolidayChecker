@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj": {}
+    "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\Installments.csproj": {}
   },
   "projects": {
-    "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj": {
+    "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\Installments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
-        "projectName": "BrazilianHolidays",
-        "projectPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\BrazilianHolidays.csproj",
+        "projectUniqueName": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\Installments.csproj",
+        "projectName": "Installments",
+        "projectPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\Installments.csproj",
         "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
         "outputPath": "C:\\itlab.estagio2022\\BrazilianHolidays\\BrazilianHolidayChecker\\BrazilianHolidays\\obj\\",
         "projectStyle": "PackageReference",
