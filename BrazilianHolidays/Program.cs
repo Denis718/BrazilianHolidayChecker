@@ -11,7 +11,7 @@ namespace Installments
         static void Main(string[] args)
         {
             
-            Console.WriteLine("  Informe a data da primeira parcela: ");
+            Console.Write("  Informe a data da primeira parcela: ");
             var line = Console.ReadLine();
             DateTime dt;
             while (!DateTime.TryParseExact(line, "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out dt))
